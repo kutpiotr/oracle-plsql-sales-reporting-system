@@ -53,7 +53,7 @@ Celem projektu jest stworzenie uproszczonego, ale realistycznego systemu raporto
 
 ---
 
-## Technologies
+## Technologie
 
 * Oracle Database
 * SQL
